@@ -1,0 +1,3 @@
+Journal API:
+
+A REST application API for Notes and TODOs.
